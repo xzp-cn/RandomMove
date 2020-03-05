@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: a76088134ead4634395fbd9e8962438e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: end
+    100002: end 1
+    100004: end 2
+    100006: end 3
+    100008: end 4
+    100010: end 5
+    100012: end 6
+    100014: end 7
+    100016: //RootNode
+    100018: Fei_Ge
+    100020: Fei_Ge 1
+    100022: Fei_GuGe
+    100024: Fei_GuGe 1
+    100026: Fei_PiFu
+    100028: Fei_PiFu 1
+    100030: Fei_QiGuan
+    100032: Fei_QiGuan 1
+    100034: Fei_YouFei_D
+    100036: Fei_YouFei_M
+    100038: Fei_YouFei_U
+    100040: Fei_YouShangYe
+    100042: Fei_YouXiaYe
+    100044: Fei_YouZhongYe
+    100046: Fei_ZuoFei_D
+    100048: Fei_ZuoFei_U
+    100050: Fei_ZuoShangYe
+    100052: Fei_ZuoXiaYe
+    100054: SpliteEnd
+    100056: start
+    100058: start 1
+    100060: start 2
+    100062: start 3
+    100064: start 4
+    100066: start 5
+    100068: start 6
+    100070: start 7
+    100072: tag_Ge
+    100074: tag_LeiGu
+    100076: tag_YouShangYe
+    100078: tag_YouXiaYe
+    100080: tag_YouZhongYe
+    100082: tag_ZhiQiGuan
+    100084: tag_ZuoShangYe
+    100086: tag_ZuoXiaYe
+    400000: end
+    400002: end 1
+    400004: end 2
+    400006: end 3
+    400008: end 4
+    400010: end 5
+    400012: end 6
+    400014: end 7
+    400016: //RootNode
+    400018: Fei_Ge
+    400020: Fei_Ge 1
+    400022: Fei_GuGe
+    400024: Fei_GuGe 1
+    400026: Fei_PiFu
+    400028: Fei_PiFu 1
+    400030: Fei_QiGuan
+    400032: Fei_QiGuan 1
+    400034: Fei_YouFei_D
+    400036: Fei_YouFei_M
+    400038: Fei_YouFei_U
+    400040: Fei_YouShangYe
+    400042: Fei_YouXiaYe
+    400044: Fei_YouZhongYe
+    400046: Fei_ZuoFei_D
+    400048: Fei_ZuoFei_U
+    400050: Fei_ZuoShangYe
+    400052: Fei_ZuoXiaYe
+    400054: SpliteEnd
+    400056: start
+    400058: start 1
+    400060: start 2
+    400062: start 3
+    400064: start 4
+    400066: start 5
+    400068: start 6
+    400070: start 7
+    400072: tag_Ge
+    400074: tag_LeiGu
+    400076: tag_YouShangYe
+    400078: tag_YouXiaYe
+    400080: tag_YouZhongYe
+    400082: tag_ZhiQiGuan
+    400084: tag_ZuoShangYe
+    400086: tag_ZuoXiaYe
+    2100000: M_hxd_fei
+    2100002: M_hxd_guge
+    2100004: M_fei_pifu
+    2100006: M_hxd_qg
+    2300000: Fei_Ge
+    2300002: Fei_GuGe
+    2300004: Fei_PiFu
+    2300006: Fei_QiGuan
+    2300008: Fei_YouShangYe
+    2300010: Fei_YouXiaYe
+    2300012: Fei_YouZhongYe
+    2300014: Fei_ZuoShangYe
+    2300016: Fei_ZuoXiaYe
+    3300000: Fei_Ge
+    3300002: Fei_GuGe
+    3300004: Fei_PiFu
+    3300006: Fei_QiGuan
+    3300008: Fei_YouShangYe
+    3300010: Fei_YouXiaYe
+    3300012: Fei_YouZhongYe
+    3300014: Fei_ZuoShangYe
+    3300016: Fei_ZuoXiaYe
+    4300000: Fei_Ge
+    4300002: Fei_GuGe
+    4300004: Fei_PiFu
+    4300006: Fei_QiGuan
+    4300008: Fei_ZuoShangYe
+    4300010: Fei_ZuoXiaYe
+    4300012: Fei_YouXiaYe
+    4300014: Fei_YouZhongYe
+    4300016: Fei_YouShangYe
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_fei_pifu
+    second: {fileID: 2100000, guid: 93dadf8353dac00418d3ab1d6ad453ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_hxd_fei
+    second: {fileID: 2100000, guid: 859ffb1cdffdc8841b55d8d52911e7b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_hxd_guge
+    second: {fileID: 2100000, guid: 6527226520f75d84a84da4e1e7e16a9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_hxd_qg
+    second: {fileID: 2100000, guid: 3eb51e6552cc2d54d9c4eca4ffa4ccd4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

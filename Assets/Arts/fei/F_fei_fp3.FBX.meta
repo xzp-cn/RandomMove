@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 031fc7dab85610c42a16c9051ccc1207
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: fei_fp1
+    100004: fei_fp10
+    100006: fei_fp11
+    100008: fei_fp12
+    100010: fei_fp13
+    100012: fei_fp14
+    100014: fei_fp15
+    100016: fei_fp16
+    100018: fei_fp17
+    100020: fei_fp18
+    100022: fei_fp19
+    100024: fei_fp2
+    100026: fei_fp20
+    100028: fei_fp21
+    100030: fei_fp22
+    100032: fei_fp23
+    100034: fei_fp24
+    100036: fei_fp3
+    100038: fei_fp4
+    100040: fei_fp5
+    100042: fei_fp6
+    100044: fei_fp7
+    100046: fei_fp8
+    100048: fei_fp9
+    100050: fei_fpdm
+    100052: fei_fpjm
+    400000: //RootNode
+    400002: fei_fp1
+    400004: fei_fp10
+    400006: fei_fp11
+    400008: fei_fp12
+    400010: fei_fp13
+    400012: fei_fp14
+    400014: fei_fp15
+    400016: fei_fp16
+    400018: fei_fp17
+    400020: fei_fp18
+    400022: fei_fp19
+    400024: fei_fp2
+    400026: fei_fp20
+    400028: fei_fp21
+    400030: fei_fp22
+    400032: fei_fp23
+    400034: fei_fp24
+    400036: fei_fp3
+    400038: fei_fp4
+    400040: fei_fp5
+    400042: fei_fp6
+    400044: fei_fp7
+    400046: fei_fp8
+    400048: fei_fp9
+    400050: fei_fpdm
+    400052: fei_fpjm
+    2100000: M_fei_fpxg
+    2100002: M_fei_fp
+    2300000: fei_fp1
+    2300002: fei_fp10
+    2300004: fei_fp11
+    2300006: fei_fp12
+    2300008: fei_fp13
+    2300010: fei_fp14
+    2300012: fei_fp15
+    2300014: fei_fp16
+    2300016: fei_fp17
+    2300018: fei_fp18
+    2300020: fei_fp19
+    2300022: fei_fp2
+    2300024: fei_fp20
+    2300026: fei_fp21
+    2300028: fei_fp22
+    2300030: fei_fp23
+    2300032: fei_fp24
+    2300034: fei_fp3
+    2300036: fei_fp4
+    2300038: fei_fp5
+    2300040: fei_fp6
+    2300042: fei_fp7
+    2300044: fei_fp8
+    2300046: fei_fp9
+    2300048: fei_fpdm
+    2300050: fei_fpjm
+    3300000: fei_fp1
+    3300002: fei_fp10
+    3300004: fei_fp11
+    3300006: fei_fp12
+    3300008: fei_fp13
+    3300010: fei_fp14
+    3300012: fei_fp15
+    3300014: fei_fp16
+    3300016: fei_fp17
+    3300018: fei_fp18
+    3300020: fei_fp19
+    3300022: fei_fp2
+    3300024: fei_fp20
+    3300026: fei_fp21
+    3300028: fei_fp22
+    3300030: fei_fp23
+    3300032: fei_fp24
+    3300034: fei_fp3
+    3300036: fei_fp4
+    3300038: fei_fp5
+    3300040: fei_fp6
+    3300042: fei_fp7
+    3300044: fei_fp8
+    3300046: fei_fp9
+    3300048: fei_fpdm
+    3300050: fei_fpjm
+    4300000: fei_fpjm
+    4300002: fei_fpdm
+    4300004: fei_fp1
+    4300006: fei_fp2
+    4300008: fei_fp3
+    4300010: fei_fp4
+    4300012: fei_fp5
+    4300014: fei_fp6
+    4300016: fei_fp7
+    4300018: fei_fp8
+    4300020: fei_fp9
+    4300022: fei_fp10
+    4300024: fei_fp11
+    4300026: fei_fp12
+    4300028: fei_fp13
+    4300030: fei_fp14
+    4300032: fei_fp15
+    4300034: fei_fp16
+    4300036: fei_fp17
+    4300038: fei_fp18
+    4300040: fei_fp19
+    4300042: fei_fp20
+    4300044: fei_fp21
+    4300046: fei_fp22
+    4300048: fei_fp23
+    4300050: fei_fp24
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
